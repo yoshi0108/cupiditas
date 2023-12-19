@@ -1,11 +1,11 @@
 {
-  "name": "エンジニア太郎",
-  "belong-to": "株式会社エンジニア",
-  "title": "プログラマー",
+  "name": "奥村 嘉之",
+  "belong-to": "日本ワインブドウ栽培協会",
+  "title": "WineHacker",
   "avatar": "./img/avator-male.png",
   "style": {
-    "desktop": "Mac",
-    "mobile": "Android"
+    "desktop": "Windows",
+    "mobile": "iPhone"
   },
   "point-skill": [
     {
