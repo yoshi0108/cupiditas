@@ -1,5 +1,5 @@
 {
-  "name": "奥村嘉之",
+  "name": "奥村 嘉之",
   "belong-to": "日本ワインブドウ栽培協会",
   "title": "WineHacker",
   "avatar": "./img/avator-male.png",
@@ -9,37 +9,37 @@
   },
   "point-skill": [
     {
-      "skill-name": "プログラム",
-      "skill-point": 100
-    },
-    {
-      "skill-name": "データベース",
-      "skill-point": 80
-    },
-    {
-      "skill-name": "ネットワーク",
+      "skill-name": "ビジョナリー",
       "skill-point": 70
     },
     {
-      "skill-name": "OS",
+      "skill-name": "プロジェクトマネジメント",
       "skill-point": 60
     },
     {
-      "skill-name": "ハードウェア",
-      "skill-point": 50
+      "skill-name": "ファシリテート",
+      "skill-point": 70
     },
     {
-      "skill-name": "セキュリティ",
+      "skill-name": "IT",
+      "skill-point": 60
+    },
+    {
+      "skill-name": "財務経理",
       "skill-point": 40
     },
     {
-      "skill-name": "ミドルウェア",
+      "skill-name": "栽培管理",
       "skill-point": 20
+    },
+    {
+      "skill-name": "醸造管理",
+      "skill-point": 45
     }
   ],
   "inherent-ability": {
-    "name": "自分だけのスキル",
-    "description": "ここには自分だけが特有しているスキルを書いて下さい。他の人には真似できないことや、他とは一線を画するものを。"
+    "name": "360°仮説思考",
+    "description": "世の中のあらゆる物事に興味を示し、知識として吸収しようとする過程で仮説思考を発揮する"
   },
   "abilities": {
     "numerical-ability": [
