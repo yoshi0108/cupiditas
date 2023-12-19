@@ -347,12 +347,12 @@ a.tab.other {
 
 .inherent-ability {
 	position: relative;
-	margin-bottom: 1rem;
+	margin-bottom: 2rem;
 }
 
 .inherent-ability .caption {
 	color: #727206;
-	margin: 0.6rem;
+	margin: 2rem;
 
 	font-size: 1.6rem;
 	font-weight: bold;
