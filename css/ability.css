@@ -175,6 +175,9 @@ a.tab.other {
 	background: #f2f2ff;
 	z-index: 1;
 }
+.management-box {
+    display: none;
+}
 
 .other-box {
 	border: #1db81d 4px solid;
