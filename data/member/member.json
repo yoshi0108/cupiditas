@@ -10,23 +10,7 @@
   "point-skill": [
     {
       "skill-name": "ビジョナリー",
-      "skill-point": 70
-    },
-    {
-      "skill-name": "プロジェクトマネジメント",
-      "skill-point": 60
-    },
-    {
-      "skill-name": "ファシリテート",
-      "skill-point": 70
-    },
-    {
-      "skill-name": "IT",
-      "skill-point": 60
-    },
-    {
-      "skill-name": "財務経理",
-      "skill-point": 40
+      "skill-point": 65
     },
     {
       "skill-name": "栽培管理",
@@ -35,11 +19,27 @@
     {
       "skill-name": "醸造管理",
       "skill-point": 45
+    },
+    {
+      "skill-name": "ﾌﾟﾛｼﾞｪｸﾄﾏﾈｼﾞﾒﾝﾄ",
+      "skill-point": 55
+    },
+    {
+      "skill-name": "ファシリテート",
+      "skill-point": 60
+    },
+    {
+      "skill-name": "IT",
+      "skill-point": 55
+    },
+    {
+      "skill-name": "経営管理",
+      "skill-point": 35
     }
   ],
   "inherent-ability": {
     "name": "360°仮説思考",
-    "description": "世の中のあらゆる物事に興味を示し、知識として吸収しようとする過程で仮説思考を発揮する"
+    "description": "世の中のあらゆる物事に興味を示し、知識として吸収しようとする過程で仮説思考を発揮する.　世の中に「気づき」を与える広義のデザイン思考を極めたいと日々思案している"
   },
   "abilities": {
     "numerical-ability": [
